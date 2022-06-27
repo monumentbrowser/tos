@@ -1,0 +1,1 @@
+Minecraft.Classic.Texture.Pack 050ac25f-3124-4acb-ad16-64b779f8255f 1,.0,.0Texture.Update.Pack 4f3c134c-bf7f-49d3-abc3-28ffd6963768 1,.0,.7
